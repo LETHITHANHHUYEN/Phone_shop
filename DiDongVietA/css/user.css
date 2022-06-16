@@ -1,0 +1,34 @@
+.hh-box {
+    width: 180px;
+    height: 240px;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    display: inline-block;
+    margin: 35px 5px 5px 5px;
+  }
+
+  .hh-box-image {
+    width: 150px;
+    height: 150px;
+  }
+  
+  .hh-box-name {
+    top: -30px;
+    left: 0px;
+    font-weight: bolder;
+    font-size: x-large;
+    width: inherit;
+    color: blue;
+  }
+  
+  .hh-box-cost {
+    font-weight: bolder;
+  }
+  
+  .bt-buy {
+      border-radius: 20%;
+      background-color:green;
+      color: white;
+      font-weight: bolder;
+  }
